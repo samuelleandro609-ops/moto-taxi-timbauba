@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "description": "Backend do Moto Taxi Timbauba: cria cobrancas Pix via Mercado Pago (diária do mototáxi).",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "server.js",
+  "name": "moto-taxi-backend",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.8.11"
+}
